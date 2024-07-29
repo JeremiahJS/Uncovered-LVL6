@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/zapsplat_household_book_manual_large_close_59654.mp3-1331e5a0af0a28905ee51fa995f8e888.mp3str"
+
+[deps]
+
+source_file="res://Audio/zapsplat_household_book_manual_large_close_59654.mp3"
+dest_files=[ "res://.import/zapsplat_household_book_manual_large_close_59654.mp3-1331e5a0af0a28905ee51fa995f8e888.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

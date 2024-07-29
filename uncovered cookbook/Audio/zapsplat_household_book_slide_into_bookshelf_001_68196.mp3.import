@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/zapsplat_household_book_slide_into_bookshelf_001_68196.mp3-d02c5438591b3435b13e56ecc83b97fb.mp3str"
+
+[deps]
+
+source_file="res://Audio/zapsplat_household_book_slide_into_bookshelf_001_68196.mp3"
+dest_files=[ "res://.import/zapsplat_household_book_slide_into_bookshelf_001_68196.mp3-d02c5438591b3435b13e56ecc83b97fb.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

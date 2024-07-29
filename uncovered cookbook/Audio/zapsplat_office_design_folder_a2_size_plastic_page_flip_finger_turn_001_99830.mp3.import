@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/zapsplat_office_design_folder_a2_size_plastic_page_flip_finger_turn_001_99830.mp3-6550ff0a63917f0f0dafe630a78210f6.mp3str"
+
+[deps]
+
+source_file="res://Audio/zapsplat_office_design_folder_a2_size_plastic_page_flip_finger_turn_001_99830.mp3"
+dest_files=[ "res://.import/zapsplat_office_design_folder_a2_size_plastic_page_flip_finger_turn_001_99830.mp3-6550ff0a63917f0f0dafe630a78210f6.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

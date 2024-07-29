@@ -1,0 +1,15 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+path="res://.import/arrow bitmap.png-05a702f0ca1a28129022c4804d86a933.res"
+
+[deps]
+
+source_file="res://images/arrow bitmap.png"
+dest_files=[ "res://.import/arrow bitmap.png-05a702f0ca1a28129022c4804d86a933.res" ]
+
+[params]
+
+create_from=0
+threshold=0.5
